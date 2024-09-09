@@ -15,3 +15,5 @@
 3. Open Blender and register the zip file downloaded from git as an add-on
   - Change the Blender version in the __init__.py file if necessary.
 4. If the command is added as follows, you are done
+
+![Screenshot 2024-09-09 at 19 08 32](https://github.com/user-attachments/assets/7137dc6e-9020-40f2-b750-12df66d26e32)
